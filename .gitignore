@@ -2,7 +2,8 @@
 node_modules
 
 # build artefacts
-
+public
+css
 
 # secrets and errors
 .env
