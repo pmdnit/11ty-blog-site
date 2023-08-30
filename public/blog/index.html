@@ -11,12 +11,12 @@
   
   <!-- Favicon -->
   <link href="img/favicon.ico" rel="icon">
-  
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
   <!-- Google Web Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;600&family=Inter:wght@700;800&display=swap" rel="stylesheet">
-  
+
   <!-- Icon Font Stylesheet -->
   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
@@ -30,8 +30,11 @@
   
   <!-- Template Stylesheet -->
   <link rel="stylesheet" href="../style.css">
-  
+
   <script defer src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
+ 
+
 </head>
 <body>
     
@@ -39,23 +42,27 @@
   <div class="container">
     <div class="page-header__content">
       <nav class="navbar navbar-expand-lg bg-white navbar-light shadow sticky-top p-0">
+    <div class="container">
         <div class="navbar-header">
-          <span><a class="navbar-brand toplogo d-flex align-items-center text-center py-0 px-4 px-lg-5" href="https://www.filchi-jobfair.com/index.html"><img class="img-responsive" src="https://i.imgur.com/monVaRK.png"/></a></span>
+            <span><a class="navbar-brand toplogo d-flex align-items-center text-center py-0 px-4 px-lg-5" href="https://www.filchi-jobfair.com/index.html"><img class="img-responsive" src="https://i.imgur.com/monVaRK.png"/></a></span>
         </div>
         <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
-          <span class="navbar-toggler-icon"></span>
+            <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
-          <div class="navbar-nav ms-auto p-4 p-lg-0">
-            <a href="https://www.filchi-jobfair.com/" class="nav-item nav-link active">Home</a>
-            <a href="https://www.filchi-jobfair.com/visit.html" class="nav-item nav-link">Visit Us</a>
-            <a href="https://www.filchi-jobfair.com/contact.html" class="nav-item nav-link">Contact</a>
-            <a href="https://www.filchi-jobfair.com/exhibit.html" class="nav-item nav-link">Exhibit Now</a>
-            <a href="/" class="nav-item nav-link">Blog</a>
-            <!-- Add more navigation items as needed -->
-          </div>
+            <div class="navbar-nav ms-auto p-4 p-lg-0">
+                <a href="https://www.filchi-jobfair.com/" class="nav-item nav-link active">Home</a>
+                <a href="https://www.filchi-jobfair.com/visit.html" class="nav-item nav-link">Visit Us</a>
+                <a href="https://www.filchi-jobfair.com/contact.html" class="nav-item nav-link">Contact</a>
+                <a href="https://www.filchi-jobfair.com/exhibit.html" class="nav-item nav-link">Exhibit Now</a>
+                <a href="/" class="nav-item nav-link">Blog</a>
+                <!-- Add more navigation items as needed -->
+            </div>
         </div>
-      </nav>
+    </div>
+</nav>
+      
+
       <div>
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 114 26.6" class="logo" width="8rem" fill="var(--logo-color, #000)">
           <!-- Your SVG path -->
@@ -72,63 +79,112 @@
 <div class="section container">
 <h1 class="section-title">Recent articles</h1>
 
-<ul role="list" class="articles_list flow"><li>
+<ul role="list" class="articles_list flow"><section class="hero">
+  <div class="container-xxl bg-white p-4">
+      <div class="hero__content flow">
+<li>
       <article class="snippet">
-        <img src="/assets/blog/screenshot-2023-03-10-at-1.20.18-pm.webp" alt="Tesla Car" class="snippet_image">
-        <h3 class="snippet_title"><a href="/blog/2023-06-06-testing-article-setup/">TESTING ARTICLE SETUP</a></h3>
-        <p class="snippet_meta">by <span> PDMN PRINZE<span> on <span>Jun 6, 2023 </span> </p>
-        <p class="snippet_body">WOW</p>
-        <a href="/blog/2023-06-06-testing-article-setup/" class="btn btn--primary"> Continue Reading </a>
-      </article>
-      </li><li>
-      <article class="snippet">
-        <img src="/assets/blog/article-5.jpg" alt="This is a test" class="snippet_image">
-        <h3 class="snippet_title"><a href="/blog/2021-06-16-a-new-post/">My Sixth Article</a></h3>
-        <p class="snippet_meta">by <span> Kevin Powell<span> on <span>Jun 16, 2021 </span> </p>
-        <p class="snippet_body">Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?</p>
-        <a href="/blog/2021-06-16-a-new-post/" class="btn btn--primary"> Continue Reading </a>
-      </article>
-      </li><li>
-      <article class="snippet">
-        <img src="/assets/blog/article-5.jpg" alt="This is a test" class="snippet_image">
-        <h3 class="snippet_title"><a href="/blog/2021-06-15-my-fifth-article/">My Fifth Article</a></h3>
-        <p class="snippet_meta">by <span> Kevin Powell<span> on <span>Jun 15, 2021 </span> </p>
-        <p class="snippet_body">Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?</p>
-        <a href="/blog/2021-06-15-my-fifth-article/" class="btn btn--primary"> Continue Reading </a>
-      </article>
-      </li><li>
-      <article class="snippet">
-        <img src="/assets/blog/article-4.jpg" alt="This is a test" class="snippet_image">
-        <h3 class="snippet_title"><a href="/blog/2021-06-01-my-fourth-article/">My Fourth Article</a></h3>
-        <p class="snippet_meta">by <span> Kevin Powell<span> on <span>Jun 1, 2021 </span> </p>
-        <p class="snippet_body">Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?</p>
-        <a href="/blog/2021-06-01-my-fourth-article/" class="btn btn--primary"> Continue Reading </a>
-      </article>
-      </li><li>
-      <article class="snippet">
-        <img src="/assets/blog/article-3.jpg" alt="This is a test" class="snippet_image">
-        <h3 class="snippet_title"><a href="/blog/2021-05-28-my-third-article/">My Third Article</a></h3>
-        <p class="snippet_meta">by <span> Kevin Powell<span> on <span>May 28, 2021 </span> </p>
-        <p class="snippet_body">Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?</p>
-        <a href="/blog/2021-05-28-my-third-article/" class="btn btn--primary"> Continue Reading </a>
-      </article>
-      </li><li>
-      <article class="snippet">
-        <img src="/assets/blog/article-2.jpg" alt="This is a test" class="snippet_image">
-        <h3 class="snippet_title"><a href="/blog/2021-05-15-my-second-article/">My Second Article</a></h3>
-        <p class="snippet_meta">by <span> Kevin Powell<span> on <span>May 15, 2021 </span> </p>
-        <p class="snippet_body">Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?</p>
-        <a href="/blog/2021-05-15-my-second-article/" class="btn btn--primary"> Continue Reading </a>
-      </article>
-      </li><li>
-      <article class="snippet">
-        <img src="/assets/blog/article-1.jpg" alt="This is a test" class="snippet_image">
-        <h3 class="snippet_title"><a href="/blog/2021-05-01-my-first-article/">My First Article</a></h3>
-        <p class="snippet_meta">by <span> Kevin Powell<span> on <span>May 1, 2021 </span> </p>
-        <p class="snippet_body">Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?</p>
-        <a href="/blog/2021-05-01-my-first-article/" class="btn btn--primary"> Continue Reading </a>
-      </article>
+  <img src="/assets/blog/screenshot-2023-03-10-at-1.20.18-pm.webp" alt="Tesla Car" class="snippet__image">
+  <h3 class="snippet__title"><a href="/blog/2023-06-06-testing-article-setup/">TESTING ARTICLE SETUP</a></h3>
+  <p class="snippet__meta" style="font-size: 18px;">by <span style="font-size: 18px;"> PDMN PRINZE<span style="font-size: 18px;"> on <span style="font-size: 18px;">Jun 6, 2023 </span> </p>
+  <a href="/blog/2023-06-06-testing-article-setup/" class="btn btn--primary"> Continue Reading </a>
+  <p class="snippet__body" >WOW</p>
+</article>
+
       </li>
+      </div>
+  </div>
+</section><section class="hero">
+  <div class="container-xxl bg-white p-4">
+      <div class="hero__content flow">
+<li>
+      <article class="snippet">
+  <img src="/assets/blog/article-5.jpg" alt="This is a test" class="snippet__image">
+  <h3 class="snippet__title"><a href="/blog/2021-06-16-a-new-post/">My Sixth Article</a></h3>
+  <p class="snippet__meta" style="font-size: 18px;">by <span style="font-size: 18px;"> Kevin Powell<span style="font-size: 18px;"> on <span style="font-size: 18px;">Jun 16, 2021 </span> </p>
+  <a href="/blog/2021-06-16-a-new-post/" class="btn btn--primary"> Continue Reading </a>
+  <p class="snippet__body" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?</p>
+</article>
+
+      </li>
+      </div>
+  </div>
+</section><section class="hero">
+  <div class="container-xxl bg-white p-4">
+      <div class="hero__content flow">
+<li>
+      <article class="snippet">
+  <img src="/assets/blog/article-5.jpg" alt="This is a test" class="snippet__image">
+  <h3 class="snippet__title"><a href="/blog/2021-06-15-my-fifth-article/">My Fifth Article</a></h3>
+  <p class="snippet__meta" style="font-size: 18px;">by <span style="font-size: 18px;"> Kevin Powell<span style="font-size: 18px;"> on <span style="font-size: 18px;">Jun 15, 2021 </span> </p>
+  <a href="/blog/2021-06-15-my-fifth-article/" class="btn btn--primary"> Continue Reading </a>
+  <p class="snippet__body" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?</p>
+</article>
+
+      </li>
+      </div>
+  </div>
+</section><section class="hero">
+  <div class="container-xxl bg-white p-4">
+      <div class="hero__content flow">
+<li>
+      <article class="snippet">
+  <img src="/assets/blog/article-4.jpg" alt="This is a test" class="snippet__image">
+  <h3 class="snippet__title"><a href="/blog/2021-06-01-my-fourth-article/">My Fourth Article</a></h3>
+  <p class="snippet__meta" style="font-size: 18px;">by <span style="font-size: 18px;"> Kevin Powell<span style="font-size: 18px;"> on <span style="font-size: 18px;">Jun 1, 2021 </span> </p>
+  <a href="/blog/2021-06-01-my-fourth-article/" class="btn btn--primary"> Continue Reading </a>
+  <p class="snippet__body" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?</p>
+</article>
+
+      </li>
+      </div>
+  </div>
+</section><section class="hero">
+  <div class="container-xxl bg-white p-4">
+      <div class="hero__content flow">
+<li>
+      <article class="snippet">
+  <img src="/assets/blog/article-3.jpg" alt="This is a test" class="snippet__image">
+  <h3 class="snippet__title"><a href="/blog/2021-05-28-my-third-article/">My Third Article</a></h3>
+  <p class="snippet__meta" style="font-size: 18px;">by <span style="font-size: 18px;"> Kevin Powell<span style="font-size: 18px;"> on <span style="font-size: 18px;">May 28, 2021 </span> </p>
+  <a href="/blog/2021-05-28-my-third-article/" class="btn btn--primary"> Continue Reading </a>
+  <p class="snippet__body" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?</p>
+</article>
+
+      </li>
+      </div>
+  </div>
+</section><section class="hero">
+  <div class="container-xxl bg-white p-4">
+      <div class="hero__content flow">
+<li>
+      <article class="snippet">
+  <img src="/assets/blog/article-2.jpg" alt="This is a test" class="snippet__image">
+  <h3 class="snippet__title"><a href="/blog/2021-05-15-my-second-article/">My Second Article</a></h3>
+  <p class="snippet__meta" style="font-size: 18px;">by <span style="font-size: 18px;"> Kevin Powell<span style="font-size: 18px;"> on <span style="font-size: 18px;">May 15, 2021 </span> </p>
+  <a href="/blog/2021-05-15-my-second-article/" class="btn btn--primary"> Continue Reading </a>
+  <p class="snippet__body" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?</p>
+</article>
+
+      </li>
+      </div>
+  </div>
+</section><section class="hero">
+  <div class="container-xxl bg-white p-4">
+      <div class="hero__content flow">
+<li>
+      <article class="snippet">
+  <img src="/assets/blog/article-1.jpg" alt="This is a test" class="snippet__image">
+  <h3 class="snippet__title"><a href="/blog/2021-05-01-my-first-article/">My First Article</a></h3>
+  <p class="snippet__meta" style="font-size: 18px;">by <span style="font-size: 18px;"> Kevin Powell<span style="font-size: 18px;"> on <span style="font-size: 18px;">May 1, 2021 </span> </p>
+  <a href="/blog/2021-05-01-my-first-article/" class="btn btn--primary"> Continue Reading </a>
+  <p class="snippet__body" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?</p>
+</article>
+
+      </li>
+      </div>
+  </div>
+</section>
 
   </ul>
 
@@ -152,17 +208,17 @@
       </div>
       <div class="col-lg-3 col-md-6">
         <h5 class="text-white mb-4">Contact</h5>
-        <a href="https://goo.gl/maps/VHg1t4Kerzx7NYrx9">
+        <a href="https://goo.gl/maps/VHg1t4Kerzx7NYrx9" style="text-decoration: none;">
           <p class="mb-2" style="color:whitesmoke"><i class="fa fa-map-marker-alt me-3" style="color:whitesmoke"></i>5/F, Salustiana D. Ty Tower, <br> &nbsp; &nbsp; &nbsp; &nbsp;104 Paseo De Roxas Ave., <br> &nbsp; &nbsp; &nbsp; &nbsp; Makati City 1229, Philippines</p>
         </a>
-        <a href="tel:+639666376696">
+        <a href="tel:+639666376696" style="text-decoration: none;">
           <p class="mb-2" style="color:whitesmoke"><i class="fa fa-phone-alt me-3" style="color:whitesmoke"></i>+63 966 637 6696</p>
         </a>
-        <a href="mailto:filchijobfair@flw.ph">
+        <a href="mailto:filchijobfair@flw.ph" style="text-decoration: none;">
           <p class="mb-2" style="color:whitesmoke"><i class="fa fa-envelope me-3" style="color:whitesmoke"></i>filchijobfair@flw.ph</p>
         </a>
         <div class="d-flex pt-2">
-          <a class="btn btn-outline-light btn-social" href="https://www.facebook.com/filchijobfair?mibextid=ZbWKwL"><i class="fab fa-facebook-f"></i></a>
+          <a class="btn btn-outline-light btn-social" href="https://www.facebook.com/filchijobfair?mibextid=ZbWKwL" ><i class="fab fa-facebook-f"></i></a>
           <a class="btn btn-outline-light btn-social" href="https://www.youtube.com/playlist?list=PLIKNmEeC3y6So3zvSMO5aRM_AZunmYuP_"><i class="fab fa-youtube"></i></a>
           <a class="btn btn-outline-light btn-social" href="https://www.linkedin.com/company/filchijobfair/"><i class="fab fa-linkedin-in"></i></a>
         </div>
@@ -202,4 +258,5 @@
   }
 </script>
 </body>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </html>
