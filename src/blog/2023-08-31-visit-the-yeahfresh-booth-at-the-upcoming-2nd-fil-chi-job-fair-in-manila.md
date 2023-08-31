@@ -1,7 +1,7 @@
 ---
 title: Visit the YeahFresh booth at the upcoming 2nd Fil-Chi Job Fair in Manila.
-description: '.23'
-author: '23'
+description: '-'
+author: '-'
 date: '2023-08-03T13:00:00+08:00'
 tags:
   - post
