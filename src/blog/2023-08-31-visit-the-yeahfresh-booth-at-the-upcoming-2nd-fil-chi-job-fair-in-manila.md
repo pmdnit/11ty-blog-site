@@ -5,6 +5,7 @@ author: '23'
 date: '2023-08-03T13:00:00+08:00'
 tags:
   - post
+  - featured
 image: /assets/blog/364755780_254022577423942_6021903850043392874_n.jpg
 imageAlt: '32'
 ---
