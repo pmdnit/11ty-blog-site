@@ -8,7 +8,7 @@ tags:
 image: /assets/blog/招商表.jpg
 imageAlt: 菲龙网第二届菲律宾华人线下招聘会
 ---
-**Joining the 2nd Filipino-Chinese Job Fair in Manila 2023     (菲龙网第二届菲律宾华人线下招聘会) happening on October 15 at SMX Manila!**
+## **Joining the 2nd Filipino-Chinese Job Fair in Manila 2023     (菲龙网第二届菲律宾华人线下招聘会) happening on October 15 at SMX Manila!**
 
 PHILIPPINE DRAGON MEDIA NETWORK 菲龙网
 
