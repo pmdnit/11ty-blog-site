@@ -10,7 +10,7 @@ imageAlt: 菲龙网第二届菲律宾华人线下招聘会
 ---
 ## **Joining the 2nd Filipino-Chinese Job Fair in Manila 2023     (菲龙网第二届菲律宾华人线下招聘会) happening on October 15 at SMX Manila!**
 
-PHILIPPINE DRAGON MEDIA NETWORK 菲龙网
+PHILIPPINE DRAGON MEDIA NETWORK 菲龙网 
 
 BOSSJOB
 
@@ -18,7 +18,7 @@ SQUARE & CIRCLE PROPERTIES CORP. 方圆地产
 
 GOOD LUCK HOTPOT 红运火锅
 
-SANNIU BEEF HOTPOT INC. 三牛合鼎
+SANNIU BEEF HOTPOT INC. 三牛合鼎 
 
 NT GROUP 南天集团（食品）
 
@@ -68,6 +68,10 @@ EMMA SLEEP PH（睡眠科技公司）
 
 J-K NETWORK SERVICES（双语招聘平台）
 
-Registration is ongoing and completely FREE! Sign up at <https://www.filchi-jobfair.com/visit.html> to secure your spot now!
+<br> <br>
+
+<b>Registration is ongoing and completely FREE!  </b> 
+
+Sign up at <https://www.filchi-jobfair.com/visit.html> to secure your spot now!
 
 \#filchijobfair #filchijobfair2023 #jobsph #RecruitmentPH #JobFairPH #philippines #philippinejobfair
