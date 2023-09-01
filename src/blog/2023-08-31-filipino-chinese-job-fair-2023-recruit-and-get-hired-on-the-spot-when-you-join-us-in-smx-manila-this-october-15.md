@@ -22,7 +22,7 @@ This event is open to all job seekers and exhibitors. Pre-registration for atten
 
 The Filipino-Chinese Job Fair is a testament to the Philippine Dragon Media Network’s commitment to promoting economic growth and Fil-Chi exchanges in the Philippines. For more information on the Filipino-Chinese job fair, please visit our website at [www.filchi-jobfair.com](www.filchi-jobfair.com) or contact the event organizer.
 
-<br> <br> <br> <br>
+
 
 PRESS CONTACT
 
