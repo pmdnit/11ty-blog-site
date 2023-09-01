@@ -1,13 +1,13 @@
 ---
 title: Visit the YeahFresh booth at the upcoming 2nd Fil-Chi Job Fair in Manila.
-description: '-'
-author: '-'
+description: ''
+author: ''
 date: '2023-08-03T13:00:00+08:00'
 tags:
   - post
   - featured
 image: /assets/blog/364755780_254022577423942_6021903850043392874_n.jpg
-imageAlt: '32'
+imageAlt: Yeah Fresh
 ---
 Founded in 2021, Yeah Fresh is an internet fresh products e-commerce company with numerous online channels for convenient access to its users. Determined to become the largest B2C platform in the internet industry in Southeast Asia, the company provides a clear career development path and aims to build the first branded fresh products chain stores in the Philippines.
 
