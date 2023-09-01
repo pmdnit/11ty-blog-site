@@ -2,8 +2,8 @@
 title: >-
   Filipino-Chinese Job Fair 2023: Recruit and Get Hired on the Spot when you
   join us in SMX Manila this October 15!
-description: '-'
-author: '-'
+description: ''
+author: ''
 date: '2023-08-31T15:06:38+08:00'
 tags:
   - post
