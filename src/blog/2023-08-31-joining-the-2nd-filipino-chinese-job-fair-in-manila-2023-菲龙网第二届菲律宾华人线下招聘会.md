@@ -10,7 +10,7 @@ imageAlt: 菲龙网第二届菲律宾华人线下招聘会
 ---
 ## **Joining the 2nd Filipino-Chinese Job Fair in Manila 2023     (菲龙网第二届菲律宾华人线下招聘会) happening on October 15 at SMX Manila!**
 
-<h3>
+<h5>
 
 1. PHILIPPINE DRAGON MEDIA NETWORK 菲龙网
 2. BOSSJOB
@@ -42,7 +42,7 @@ imageAlt: 菲龙网第二届菲律宾华人线下招聘会
 28. EMMA SLEEP PH（睡眠科技公司）
 29. J-K NETWORK SERVICES（双语招聘平台）
 
-</h3>
+</h5>
 
 Registration is ongoing and completely FREE! Sign up at <https://www.filchi-jobfair.com/visit.html> to secure your spot now!
 
