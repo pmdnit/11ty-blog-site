@@ -238,6 +238,8 @@ section,
   margin: 6rem 0;
 }
 
+
+
 /* //////////////////////
   Individual article page
   /////////////////////// */
@@ -260,6 +262,8 @@ section,
   .main-article__figure {
     text-align: center; /* Center-align the image */
   }
+
+  
 
 /* //////////////////////
   Article snippets

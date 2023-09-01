@@ -4,37 +4,38 @@ layout: 'base.njk'
 ---
    
      
-<section class="hero">
-  <div class="container-xxl bg-white p-4">
+<section class="hero" style="margin-bottom: -50px;">
+  <div class="container-xxl bg-white p-4" >
     <div>
         <img src="https://i.imgur.com/LXJFjWM.jpg" alt="" class="hero__image" height="500">
 
       </div>
-      <div class="hero__content flow">
+      <div class="hero__content flow" >
         <h1 class="section-title">Welcome to Fil-Chi Job Fair blog!</h1>
         <p>"Connecting Opportunities: Uniting Filipino-Chinese Communities in a Job Fair Extravaganza"</p>
         <p>Explore our comprehensive blog/article page dedicated to the enlightening Filipino-Chinese Job Fair, where synergy between two vibrant cultures fosters career avenues. Delve into insightful event coverage, success stories, and expert advice, as we showcase how this job fair acts as a bridge, linking talented individuals with flourishing opportunities while celebrating the fusion of Filipino and Chinese heritage. </p>
         <p>Discover a world of possibilities where diversity, culture, and career growth intertwine seamlessly.</p>
         <div class="flex-group">
-          <a href="#featured-articles" class="btn btn--primary py-md-3 px-md-5 mt-3">Featured articles</a>
-          <a href="./blog" class="btn btn--neutral py-md-3 px-md-5 mt-3">Most recent articles</a>
+          <!-- <a href="#featured-articles" class="btn btn--primary py-md-3 px-md-5 mt-3">Featured articles</a> -->
+          <!-- <a href="./blog" class="btn btn--neutral py-md-3 px-md-5 mt-3">Most recent articles</a> -->
         </div>
       </div>
       
   </div>
 </section>
 
-<section id="featured-articles" class="featured-articles">
-  <div class="container flow">
-    <h2 class="section-title text-center ">Featured articles</h2>
-    <p class="text-center">Explore our series of insightful articles that delve into various aspects of the Fil-Chi Job Fair, offering a comprehensive perspective on this remarkable event.</p>
-    <ul role="list" class="articles__list flow">
+<section id="featured-articles" class="featured-articles" >
+  <div class="container flow" >
+    <h2 class="section-title text-center " >Featured articles</h2>
+    <p class="text-center" style="margin-bottom: -100px;">Explore our series of insightful articles that delve into various aspects of the Fil-Chi Job Fair, offering a comprehensive perspective on this remarkable event.</p>
+    <ul role="list" class="articles__list flow " >
 
-        {%- for post in collections.featured | reverse -%}
+        {%- for post in collections.post | reverse -%}
           {% include 'article-snippet.njk' %}
         {%- endfor %}
     </ul>
   </div>
+  
 </section> 
 
     
