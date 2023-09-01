@@ -243,9 +243,17 @@ section,
 /* //////////////////////
   Individual article page
   /////////////////////// */
-
+  .article-title {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700; /* This corresponds to the bold weight */
+    font-size: var(--fs-700);
+    color: var(--clr-primary-500);
+  }
   .main-article {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500; /* This corresponds to the bold weight */
     margin-bottom: 3rem;
+    font-size: var(--fs-500);
   }
 
   .main-article__figure figcaption {
@@ -255,7 +263,7 @@ section,
   }
   .main-article__figure img {
     display: inline-block;
-    width: 70%; /* Adjust the width value as needed */
+    width: 50%; /* Adjust the width value as needed */
     max-width: 100%; /* Ensure the image doesn't exceed its container's width */
     height: auto; /* Maintain the image's aspect ratio */
   }
