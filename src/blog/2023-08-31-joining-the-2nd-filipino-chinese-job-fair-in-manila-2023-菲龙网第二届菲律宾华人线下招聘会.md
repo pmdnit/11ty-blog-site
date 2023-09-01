@@ -70,7 +70,7 @@ J-K NETWORK SERVICES（双语招聘平台）
 
 <br> <br>
 
-<b>Registration is ongoing and completely FREE!**  **</b>** **
+<b>Registration is ongoing and completely FREE!  </b> 
 
 Sign up at <https://www.filchi-jobfair.com/visit.html> to secure your spot now!
 
