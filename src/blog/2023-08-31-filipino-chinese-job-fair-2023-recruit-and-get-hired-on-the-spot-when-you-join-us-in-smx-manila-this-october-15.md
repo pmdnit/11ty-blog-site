@@ -24,7 +24,7 @@ The Filipino-Chinese Job Fair is a testament to the Philippine Dragon Media Netw
 
 
 
-`<br><br><br><br>`
+<br><br><br><br>
 
 PRESS CONTACT
 
@@ -42,4 +42,4 @@ filchijobfair@flw.ph
 
 
 
-`</br></br></br></br>`
+</br></br></br></br>
