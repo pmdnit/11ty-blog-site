@@ -68,8 +68,8 @@ EMMA SLEEP PH（睡眠科技公司）
 
 J-K NETWORK SERVICES（双语招聘平台）
 
+<br> <br>
 
-
-Registration is ongoing and completely FREE! Sign up at <https://www.filchi-jobfair.com/visit.html> to secure your spot now!
+**Registration is ongoing and completely FREE! **Sign up at <https://www.filchi-jobfair.com/visit.html> to secure your spot now!
 
 \#filchijobfair #filchijobfair2023 #jobsph #RecruitmentPH #JobFairPH #philippines #philippinejobfair
