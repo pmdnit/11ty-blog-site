@@ -10,19 +10,13 @@ imageAlt: 菲龙网第二届菲律宾华人线下招聘会
 ---
 ## **Joining the 2nd Filipino-Chinese Job Fair in Manila 2023     (菲龙网第二届菲律宾华人线下招聘会) happening on October 15 at SMX Manila!**
 
-1. PHILIPPINE DRAGON MEDIA NETWORK 菲龙网
-
-2. BOSSJOB
-
-3. SQUARE & CIRCLE PROPERTIES CORP. 方圆地产
-
-4. GOOD LUCK HOTPOT 红运火锅
-
-5. SANNIU BEEF HOTPOT INC. 三牛合鼎
-
-6. NT GROUP 南天集团（食品）
-
-7. CBD PROPERTY CONSULTANCY（房地产咨询公司）
+* 1. PHILIPPINE DRAGON MEDIA NETWORK 菲龙网
+* 2. BOSSJOB
+* 3. SQUARE & CIRCLE PROPERTIES CORP. 方圆地产
+* 4. GOOD LUCK HOTPOT 红运火锅
+* 5. SANNIU BEEF HOTPOT INC. 三牛合鼎
+* 6. NT GROUP 南天集团（食品）
+* 7. CBD PROPERTY CONSULTANCY（房地产咨询公司）
 
 FULLWAY GROUP 富为集团
 
