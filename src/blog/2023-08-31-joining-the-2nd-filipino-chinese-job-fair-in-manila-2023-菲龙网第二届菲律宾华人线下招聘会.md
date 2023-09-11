@@ -1,5 +1,7 @@
 ---
-title: Joining the 2nd Filipino-Chinese Job Fair in Manila 2023 (菲龙网第二届菲律宾华人线下招聘会)
+title: >-
+  Your Gateway to Opportunity: A Preview of Companies at the 2nd
+  Filipino-Chinese Job Fair in Manila 2023
 description: ''
 author: ''
 date: '2023-08-31T14:26:21+08:00'
