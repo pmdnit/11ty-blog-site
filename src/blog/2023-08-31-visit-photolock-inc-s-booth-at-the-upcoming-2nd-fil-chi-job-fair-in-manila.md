@@ -1,5 +1,7 @@
 ---
-title: 'Visit Photolock Inc.''s booth at the upcoming 2nd Fil-Chi Job Fair in Manila. '
+title: >-
+  Photolock Inc.: Pioneering Digital Printing Solutions and Career Opportunities
+  at the 2nd Fil-Chi Job Fair in Manila 2023!
 description: ''
 author: ''
 date: '2023-08-31T12:40:56+08:00'
