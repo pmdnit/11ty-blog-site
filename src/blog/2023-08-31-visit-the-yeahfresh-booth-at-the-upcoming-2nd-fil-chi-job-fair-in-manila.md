@@ -1,5 +1,7 @@
 ---
-title: Visit the YeahFresh booth at the upcoming 2nd Fil-Chi Job Fair in Manila.
+title: >-
+  Yeah Fresh: Your Gateway to a Fresh Career Path - Explore Opportunities at the
+  2nd Fil-Chi Job Fair in Manila 2023!
 description: ''
 author: ''
 date: '2023-08-03T13:00:00+08:00'
