@@ -1,5 +1,7 @@
 ---
-title: Visit realme's booth at the upcoming 2nd Fil-Chi Job Fair in Manila.
+title: >-
+  Embrace Innovation with realme: Explore Exciting Career Opportunities at the
+  2nd Fil-Chi Job Fair in Manila 2023!
 description: ''
 author: ''
 date: '2023-08-31T12:43:39+08:00'
