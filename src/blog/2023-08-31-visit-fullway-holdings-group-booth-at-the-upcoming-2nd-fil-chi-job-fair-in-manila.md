@@ -1,7 +1,7 @@
 ---
 title: >-
-  Visit Fullway Holdings Group booth at the upcoming 2nd Fil-Chi Job Fair in
-  Manila.
+  Fullway Holdings Group, Inc.: Building Dreams, Building Futures - Your Path to
+  Success at the 2nd Fil-Chi Job Fair in Manila 2023!
 description: ''
 author: ''
 date: '2023-08-31T12:30:59+08:00'
