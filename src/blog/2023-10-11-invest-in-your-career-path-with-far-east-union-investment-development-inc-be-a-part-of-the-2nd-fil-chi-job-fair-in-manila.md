@@ -2,14 +2,7 @@
 title: >-
   Invest In Your Career Path with Far East Union Investment & Development Inc.:
   Be a part of the 2nd Fil-Chi Job Fair in Manila!
-description: >-
-  Far East Union Investment & Development Inc. is an investment platform which
-  started in 2022 and is located in Makati CBD, Philippines. Its business
-  includes project investment, property development, property management, legal
-  consultancy, and aim to provide clients with one-stop investment services. Far
-  East Union expects to make achievements by helping partners, customers,
-  companies, and employees become successful. Exciting opportunities lie ahead
-  when you join the Far East Union family!
+description: ''
 author: Fil-Chi Job Fair Team
 date: '2023-10-11T18:21:59+08:00'
 tags:
