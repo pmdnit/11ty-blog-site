@@ -3,9 +3,11 @@ title: '2nd Fil-Chi Job Fair Raffle '
 date: '2023-10-14T15:58:57+08:00'
 tags:
   - post
-image: /assets/blog/1.jpg
+image: ''
 imageAlt: Raffle
 ---
+![](/assets/blog/1.jpg)
+
 Trip to Guangzhou (Travel voucher worth PHP 30,000) 
 
 \*Voucher is transferable but not convertible to cash and cannot be replaced with other items/services.
@@ -26,7 +28,7 @@ Trip to Guangzhou (Travel voucher worth PHP 30,000)
 
 \*本券最终解释权归菲龙网所有
 
-![](/assets/blog/2.jpg)
+![null](/assets/blog/2.jpg)
 
 Trip to Xiamen (Travel voucher worth PHP 15,000) 
 
@@ -37,8 +39,6 @@ Trip to Xiamen (Travel voucher worth PHP 15,000)
 \* If the final selected amount exceeds the range, the winner is responsible for covering the difference. If the actual expenses do not meet the value of the travel voucher, there will be no refund or any form of cash redemption.
 
 \*The final interpretation of this voucher belongs to Philippine Dragon Media Network
-
-
 
 前往厦门的旅行（价值30,000披索的旅行券）
 
