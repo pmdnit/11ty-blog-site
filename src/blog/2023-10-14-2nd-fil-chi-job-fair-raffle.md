@@ -10,7 +10,7 @@ imageAlt: Raffle
 ---
 ![null](/assets/blog/1.jpg)
 
-# `<center>`TERMS AND CONDITIONS </center>
+# `<center>`TERMS AND CONDITIONS `</center>`
 
 Trip to Guangzhou (Travel voucher worth PHP 30,000) 
 
