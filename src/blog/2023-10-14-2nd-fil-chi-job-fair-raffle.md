@@ -10,6 +10,8 @@ imageAlt: Raffle
 ---
 ![null](/assets/blog/1.jpg)
 
+# TERMS AND CONDITIONS
+
 Trip to Guangzhou (Travel voucher worth PHP 30,000) 
 
 \*Voucher is transferable but not convertible to cash and cannot be replaced with other items/services.
