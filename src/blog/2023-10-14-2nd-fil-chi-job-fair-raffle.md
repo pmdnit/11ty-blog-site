@@ -3,7 +3,7 @@ title: '2nd Fil-Chi Job Fair Raffle '
 date: '2023-10-14T15:58:57+08:00'
 tags:
   - post
-image: ''
+image: /assets/blog/featured.jpg
 imageAlt: Raffle
 ---
 ![](/assets/blog/1.jpg)
