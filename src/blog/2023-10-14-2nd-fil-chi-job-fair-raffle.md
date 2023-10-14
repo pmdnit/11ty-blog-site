@@ -5,7 +5,7 @@ title: >-
 date: '2023-10-14T15:58:57+08:00'
 tags:
   - post
-image: /assets/blog/featured.jpg
+image: /assets/blog/featured1.jpg
 imageAlt: Raffle
 ---
 ![](/assets/blog/1.jpg)
