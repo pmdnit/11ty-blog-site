@@ -1,5 +1,7 @@
 ---
-title: '2nd Fil-Chi Job Fair Raffle '
+title: >-
+  Adventure Awaits: Explore the World with Travel Voucher Prizes at the 2nd
+  Fil-Chi Job Fair 2023
 date: '2023-10-14T15:58:57+08:00'
 tags:
   - post
