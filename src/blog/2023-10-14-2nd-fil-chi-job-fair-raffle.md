@@ -28,7 +28,7 @@ Trip to Guangzhou (Travel voucher worth PHP 30,000)
 
 ![](/assets/blog/2.jpg)
 
-Trip to Xiamen (Travel voucher worth PHP 30,000) 
+Trip to Xiamen (Travel voucher worth PHP 15,000) 
 
 \*Voucher is transferable but not convertible to cash and cannot be replaced with other items/services.
 
