@@ -18,21 +18,21 @@ The company will also start the Samal Island – Davao City (SIDC) Connector Bri
 
 Truly, the CRBC Philippine Branch Office has lived up to its principle “Build roads and bridges, make contributions to society, put employees in the first place, and strive for excellence”. Looking into the future, CRBC Philippine Branch Office will continue to be committed to constructing quality and on-time roads and bridges, helping the society, taking care of its employees, and excelling in the new fields it will embark on.
 
-招聘岗位：
+Recruitment Opening / 招聘岗位：
 
-会计师 ACCOUNTANT
+1. 会计师 ACCOUNTANT
 
-行政主管 ADMINISTRATIVE OFFICER
+2. 行政主管 ADMINISTRATIVE OFFICER
 
-高级工程师 SENIOR ENGINEER
+3. 高级工程师 SENIOR ENGINEER
 
-助理工程师 ASSISTANT ENGINEER
+4. 助理工程师 ASSISTANT ENGINEER
 
-人力资源专员  HR OFFICER
+5. 人力资源专员  HR OFFICER
 
-文档助理 DOCUMENTATION ASSISTANT
+6. 文档助理 DOCUMENTATION ASSISTANT
 
-现场工程师 SITE ENGINEER
+7. 现场工程师 SITE ENGINEER
 
 Email: angel9262003@163.com
 
