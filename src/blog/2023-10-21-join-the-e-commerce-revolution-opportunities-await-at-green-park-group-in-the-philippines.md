@@ -21,31 +21,20 @@ Join the Green Garden Group and achieve unlimited possibilities. Don't miss this
 Recruitment post:
 
 1. Chinese advertising stream manager
-
 2. Chinese market selection manager
-
 3. Chinese live planning and operation
-
 4. Chinese Sen and International Depot Management
-
 5. Director of Chinese Sen and International Depot
-
 6. Manager of Chinese Sen Tong International
 
 Job vacancies：
 
 1. Filipino HR
-
 2. Filipino PR
-
 3. Filipino PR CSR
-
 4. Filipino CSR
-
 5. Filipino Data Collector
-
 6. Filipino Finance
-
 7. Filipino Admin
 
 Email: ryanguo@greenpark.ph
