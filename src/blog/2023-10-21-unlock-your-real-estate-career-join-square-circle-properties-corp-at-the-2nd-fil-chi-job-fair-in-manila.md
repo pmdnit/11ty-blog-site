@@ -1,7 +1,5 @@
 ---
-title: >-
-  Unlock Your Real Estate Career: Join Square & Circle Properties Corp. at the
-  2nd Fil-Chi Job Fair in Manila!
+title: 'Unlock Your Real Estate Career: Join Square & Circle Properties Corporation'
 date: '2023-10-21T11:17:57+08:00'
 tags:
   - post
