@@ -31,6 +31,8 @@ If you are ready to take your career in real estate to the next level and contri
 
 To apply, please send your resume and cover letter to \[hr.squareandcircle@gmail.com]. Be sure to specify the position you are applying for in the subject line. Join us in shaping the future of real estate in the Philippines!
 
+2nd Filipino-Chinese Job Fair in Manila 2023 (菲龙网第二届菲律宾华人线下招聘会) is the most anticipated event of the year for jobseekers and companies alike! Whether you're looking to switch careers, connect with peers, or look for talents, the Fil-Chi Job Fair is the go-to event for you!
+
 For more details visit https://www.filchi-jobfair.com/
 
 For inquiries and booth bookings:
