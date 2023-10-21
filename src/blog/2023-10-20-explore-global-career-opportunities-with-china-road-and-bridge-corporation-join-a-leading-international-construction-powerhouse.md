@@ -21,22 +21,16 @@ Truly, the CRBC Philippine Branch Office has lived up to its principle “Build 
 Recruitment Opening / 招聘岗位：
 
 1. 会计师 ACCOUNTANT
-
 2. 行政主管 ADMINISTRATIVE OFFICER
-
 3. 高级工程师 SENIOR ENGINEER
-
 4. 助理工程师 ASSISTANT ENGINEER
-
 5. 人力资源专员  HR OFFICER
-
 6. 文档助理 DOCUMENTATION ASSISTANT
-
 7. 现场工程师 SITE ENGINEER
 
 Email: angel9262003@163.com
 
-2nd Filipino-Chinese Job Fair in Manila 2023 (菲龙网第二届菲律宾华人线下招聘会) is the most anticipated event of the year for jobseekers and companies alike! Whether you're looking to switch careers, connect with peers, or look for talents, the Fil-Chi Job Fair is the go-to event for you! See you on October 15, 2023!
+2nd Filipino-Chinese Job Fair in Manila 2023 (菲龙网第二届菲律宾华人线下招聘会) is the most anticipated event of the year for jobseekers and companies alike! Whether you're looking to switch careers, connect with peers, or look for talents, the Fil-Chi Job Fair is the go-to event for you!
 
 For more details visit https://www.filchi-jobfair.com/
 
