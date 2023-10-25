@@ -5,7 +5,7 @@ title: >-
 date: '2023-10-21T12:34:09+08:00'
 tags:
   - post
-image: /assets/blog/ceec.jpg
+image: /assets/blog/新-ceec.png
 imageAlt: CEEC TOWER INC.
 ---
 CEEC TOWER INC. Founded on January 7, 2020, the company is a company established according to Philippine law to invest, build and operate shared communication towers throughout the Philippines. It obtained the independent tower operator qualification certificate issued by the Philippine Ministry of Communications in early 2021, and signed the main lease agreement with DITO, the third-brand operator in the Philippines.
