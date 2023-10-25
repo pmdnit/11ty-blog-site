@@ -5,7 +5,7 @@ title: >-
 date: '2023-10-12T10:52:20+08:00'
 tags:
   - post
-image: /assets/blog/goodluck.jpg
+image: /assets/blog/新-红运.png
 imageAlt: Good Luck Hot Pot
 ---
 Good Luck Hot Pot has been well received by Chinese and Filipinos, especially by the elites. It has also won the reputation of being the benchmark of Oriental Dining because it offers excellent dining experience, extraordinary Chinese cultural performances, and meeting the needs of different parties and business banquets. Good Luck Hot Pot expanded to the Philippines and is commited to create more job opportunities for Filipinos. We are offering professional F&B management knowledge and experiences, bringing in authentic Chinese culture and performances, and promoting the friendship of the two countries.
