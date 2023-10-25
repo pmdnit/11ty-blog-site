@@ -5,7 +5,7 @@ title: >-
 date: '2023-10-21T12:27:02+08:00'
 tags:
   - post
-image: /assets/blog/metrobank.jpg
+image: /assets/blog/metrobank-new-.png
 imageAlt: Metrobank
 ---
 Established in 1962, the Metropolitan Bank & Trust Company has become the premier universal bank and among the foremost financial institutions in the Philippines.
