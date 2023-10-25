@@ -7,7 +7,7 @@ author: Fil-Chi Job Fair Team
 date: '2023-10-11T18:21:59+08:00'
 tags:
   - post
-image: /assets/blog/368320107_265268062966060_5847155643083359980_n.jpg
+image: /assets/blog/新-远东.png
 imageAlt: Far East Union Investment & Development Inc.
 ---
 Far East Union Investment & Development Inc. is an investment platform which started in 2022 and is located in Makati CBD, Philippines. Its business includes project investment, property development, property management, legal consultancy, and aim to provide clients with one-stop investment services. Far East Union expects to make achievements by helping partners, customers, companies, and employees become successful. Exciting opportunities lie ahead when you join the Far East Union family!
