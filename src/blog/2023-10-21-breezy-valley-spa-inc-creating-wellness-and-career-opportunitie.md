@@ -3,7 +3,7 @@ title: 'Breezy Valley SPA Inc.: Creating Wellness and Career Opportunitie'
 date: '2023-10-21T12:49:03+08:00'
 tags:
   - post
-image: /assets/blog/breeze.jpg
+image: /assets/blog/新-御清风.png
 imageAlt: Breezy Valley SPA Inc.
 ---
 Breezy Valley SPA Inc., a company registered under the laws of the Republic of the Philippines with registered office address at GF Ore Central, 31st Street and 9th Avenue in Daii City, launched its brand and operations in 2017.
