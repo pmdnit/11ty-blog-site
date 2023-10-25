@@ -5,7 +5,7 @@ title: >-
 date: '2023-10-12T09:50:03+08:00'
 tags:
   - post
-image: /assets/blog/sanniu.jpg
+image: /assets/blog/新-三牛.png
 imageAlt: Sanniu Beef Hotpot
 ---
 Career Opportunities at Sanniu Beef Hotpot: Join Our Culinary Journey
