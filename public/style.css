@@ -448,12 +448,18 @@ section,
 }
 
 .btn--primary {
-  background: var(--clr-primary-400);
-  color: var(--clr-neutral-100);
+  background-color: #0071FD;
+  color: white;
   font-weight: var(--fw-700);
   border: 2px solid var(--clr-primary-400);
+  border-radius: 15px;
 }
-.btn--primary:hover,
+.btn--primary:hover{
+  background-color: white ;
+  color: #0071FD;
+  border-color: #0071FD;
+
+}
 .btn--primary:focus {
   background: var(--clr-primary-500);
   border-color: var(--clr-primary-500); 
