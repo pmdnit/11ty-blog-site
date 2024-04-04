@@ -295,6 +295,32 @@ section,
         border-right: none;
     }
 }
+
+.footerImg img{
+    height: auto;
+    width: 100%;
+}
+
+.footerImgH img{
+    height: 81px;
+    width: 100%;
+}
+
+.botlogo img {
+  height: 50%;
+  width: 406px; 
+  margin-left: 74px;
+}
+
+@media only screen and (max-width: 600px) {
+  .botlogo img {
+      height: 30%;
+      max-width: 70%;
+      margin: 0 auto; 
+      display: block; 
+      margin-bottom: 10%;
+  }
+}
 /* //////////////////////
   Homepage
   /////////////////////// */
@@ -449,18 +475,12 @@ section,
 }
 
 .btn--primary {
-  background-color: #0071FD;
-  color: white;
+  background: var(--clr-primary-400);
+  color: var(--clr-neutral-100);
   font-weight: var(--fw-700);
   border: 2px solid var(--clr-primary-400);
-  border-radius: 15px;
 }
-.btn--primary:hover{
-  background-color: white ;
-  color: #0071FD;
-  border-color: #0071FD;
-
-}
+.btn--primary:hover,
 .btn--primary:focus {
   background: var(--clr-primary-500);
   border-color: var(--clr-primary-500); 
@@ -519,8 +539,9 @@ section,
 
 
 /*** Button ***/
+
 .btn {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-weight: 600;
   transition: .5s;
   
@@ -528,34 +549,48 @@ section,
 
 .btn.btn-primary,
 .btn.btn-secondary {
-  color: #FFFFFF;
+    color: #FFFFFF;
 }
 
 .btn-square {
-  width: 38px;
-  height: 38px;
+    width: 38px;
+    height: 38px;
 }
 
 .btn-sm-square {
-  width: 32px;
-  height: 32px;
+    width: 32px;
+    height: 32px;
 }
 
 .btn-lg-square {
-  width: 48px;
-  height: 48px;
+    width: 48px;
+    height: 48px;
 }
 
 .btn-square,
 .btn-sm-square,
 .btn-lg-square {
-  padding: 0;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-weight: normal;
-  border-radius: 2px;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: normal;
+    background-color: #0071FD;
+    border-color: #0071FD;
 }
+
+.btn-square,
+.btn-sm-square,
+.btn-lg-square:hover {
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: normal;
+    background-color: #00B5EE;
+    border-color: #00B5EE;
+}
+
 
 
 /*** Navbar ***/
