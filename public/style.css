@@ -452,14 +452,14 @@ section,
   background-color: #0071FD;
   color: white;
   font-weight: var(--fw-700);
-  border: 2px solid var(--clr-primary-400);
   border-radius: 15px;
+  border: 2px solid;
 }
 .btn--primary:hover{
-  background-color: white ;
+  background-color: white;
   color: #0071FD;
   border-color: #0071FD;
-
+  border: 2px solid ;
 }
 .btn--primary:focus {
   background: var(--clr-primary-500);
