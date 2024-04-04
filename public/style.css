@@ -197,14 +197,103 @@ section,
   Footer
   /////////////////////// */
 
-.site-footer {
-  --logo-color: currentColor;
-  padding: 2em 0;
-  color: var(--clr-neutral-100);
-  background-color: var(--clr-primary-500);
-  text-align: center;
+  .footer .btn.btn-social {
+    margin-right: 5px;
+    width: 35px;
+    height: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--light);
+    border-radius: 2px;
+    transition: .3s;
 }
 
+.footer .btn.btn-social:hover {
+    color: var(--primary);
+    border-color: var(--light);
+}
+
+.footer .btn.btn-link {
+    display: block;
+    margin-bottom: 5px;
+    padding: 0;
+    text-align: left;
+    font-size: 15px;
+    font-weight: normal;
+    text-transform: capitalize;
+    transition: .3s;
+}
+
+.footer .btn.btn-link::before {
+    position: relative;
+    content: "\f105";
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    margin-right: 10px;
+}
+
+.footer .btn.btn-link:hover {
+    letter-spacing: 1px;
+    box-shadow: none;
+}
+
+.footer .form-control {
+    border-color: rgba(38, 67, 178, 1);
+}
+
+@media (max-width: 500px) {
+    .footer .btn.btn-link,
+    .footer .btn.btn-social {
+        width: calc(50% - 5px); 
+        margin-right: 5px; 
+        margin-bottom: 5px; 
+    }
+
+    .footer .btn.btn-link::before {
+        margin-right: 5px; 
+    }
+
+    .footer .btn.btn-link:last-child,
+    .footer .btn.btn-social:last-child {
+        margin-right: 0;
+    }
+}
+.footer .copyright {
+    padding: 25px 0;
+    font-size: 15px;
+    margin-left: 74px;
+    max-width: auto;
+}
+
+.footer .copyright a {
+    color: var(--light);
+}
+
+.footer .footer-menu a {
+    margin-right: 15px;
+    padding-right: 15px;
+    border-right: 1px solid rgba(38, 67,178, 1)
+}
+
+.footer .footer-menu a:last-child {
+    margin-right: 0;
+    padding-right: 0;
+    border-right: none;
+}
+
+@media (max-width: 600px) {
+    .footer .copyright {
+        margin-left: 0; 
+        text-align: center;
+    }
+
+    .footer .footer-menu a {
+        display: block;
+        text-align: center;
+        border-right: none;
+    }
+}
 /* //////////////////////
   Homepage
   /////////////////////// */
@@ -563,6 +652,32 @@ section,
 
 
 /*** Header ***/
+.page-header {
+  background-image: linear-gradient(to left, rgba(82, 89, 248, 0.3), rgba(82, 195, 248, 0.5),  rgba(220, 243, 248, 0.5)), url(src/assets/blog/imgheader.png);
+  background-size:contain; max-width: 100%;
+  
+  }
+  @media only screen and (min-width: 350px) {
+      .page-header {
+          background-size: cover; 
+          background-position: center;          
+      }
+  }
+  @media (max-width: 500px){
+      .page-header {
+          background-image: linear-gradient(to left, (rgba(0,188,212,0.3)), rgba(82, 195, 248, 0.2),  rgba(220, 243, 248, 0.3)), url(../img/imgheader.png);
+          background-position:65%;
+      }
+  }
+  
+
+.breadcrumb  .breadcrumb-item::before {
+  content: " ";
+}
+.breadcrumb  .breadcrumb-item::before {
+  content: " ";
+}
+
 .header-carousel .container,
 .page-header .container {
   position: relative;
@@ -831,9 +946,62 @@ section,
 }
 
 h1 {
-  font-weight: normal;
+  font-weight: bolder;
   letter-spacing: .125rem;
-  
+  color: #0071FD;
+  font-family: 'Poppins', sans-serif;
+}
+
+h2 {
+  font-size: 50px;
+  background: -webkit-linear-gradient(#FF1190, #0071FD);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: 'Poppins', sans-serif;
+  }
+
+h3{
+  color:#ffffff;
+  font-weight: bolder;
+  letter-spacing: .125rem;
+  font-family: 'Poppins', sans-serif;
+}
+
+h5{
+  font-family: 'Poppins', sans-serif;
+}
+
+p{
+  font-family: 'Poppins', sans-serif;
+}
+
+.btnHeader1 {
+  display: inline-block;
+  text-align: center;
+  padding: 10px 10px; /* Adjust the padding to control horizontal spacing */
+  border-radius: 10px;
+  border: 3px solid transparent; 
+  box-shadow: 0px 5px 13px #004ca8;
+  background-color: rgba(227, 244, 255, 1);
+  color: rgba(0, 113, 253, 1);
+  font-weight: bolder;
+  text-transform: uppercase;
+  transition: color .25s, background-color .25s;
+
+}
+
+.btnHeader1:hover {
+  color: rgba(255, 17, 144, 1);
+  background: 
+      linear-gradient(#e3f4ff 0 0) padding-box, 
+      linear-gradient(to bottom, #e949f1, #4197ef) border-box;
+}
+
+.btnHeader1.active {
+  color: rgba(255, 17, 144, 1);
+  background: 
+      linear-gradient(rgba(227, 244, 255, 1) 0 0) padding-box, 
+      linear-gradient(to bottom, #e949f1, #4197ef) border-box;
 }
 
 li {
