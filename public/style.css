@@ -57,6 +57,7 @@ blockquote,
 dl,
 dd {
   margin: 0;
+  font-family: 'Poppins', sans-serif;
 }
 
 /* Remove list styles on ul, ol elements with a list role, which suggests default styling will be removed */
@@ -77,7 +78,7 @@ body {
   min-height: 100vh;
   text-rendering: optimizeSpeed;
   line-height: 1.5;
-  font-family: Poppins;
+  font-family: 'Poppins', sans-serif;
 }
 
 /* A elements that don't have a class get default styles */
@@ -475,12 +476,18 @@ section,
 }
 
 .btn--primary {
-  background: var(--clr-primary-400);
-  color: var(--clr-neutral-100);
+  background-color: #0071FD;
+  color: white;
   font-weight: var(--fw-700);
-  border: 2px solid var(--clr-primary-400);
+  border-radius: 15px;
+  border: 2px solid;
 }
-.btn--primary:hover,
+.btn--primary:hover{
+  background-color: white;
+  color: #0071FD;
+  border-color: #0071FD;
+  border: 2px solid ;
+}
 .btn--primary:focus {
   background: var(--clr-primary-500);
   border-color: var(--clr-primary-500); 
@@ -1025,6 +1032,10 @@ h3{
   font-weight: bolder;
   letter-spacing: .125rem;
   font-family: 'Poppins', sans-serif;
+}
+
+h3.snippet__title{
+  color: #0071FD;
 }
 
 h5{
