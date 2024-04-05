@@ -1,10 +1,3 @@
-CMS.registerWidget('markdownWithFontSize', {
-  controlComponent: props => <MarkdownControlWithFontSize {...props} />,
-  previewComponent: props => <MarkdownPreview {...props} />,
-  // Add any other necessary configuration options
-});
-
-// Custom Markdown control component with font size option
 const MarkdownControlWithFontSize = ({ onChange, forID, value }) => {
   const handleFontSizeChange = (event) => {
     // Insert Markdown syntax for font size adjustment based on user input
@@ -24,3 +17,6 @@ const MarkdownControlWithFontSize = ({ onChange, forID, value }) => {
     </div>
   );
 };
+
+// Register the custom Markdown editor widget with font size option
+CMS.registerWidget('markdownWithFontSize', MarkdownControlWithFontSize);
