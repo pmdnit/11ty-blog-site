@@ -28,7 +28,8 @@ imageAlt: MEC Networks Corporation
 <li class = "article">Dispatch Assistant 调度助理</li>
 <li class = "article">Logistics Officer 后勤官员</li>
 </ol>
-SALES POSITIONS 销售部门职位：
+
+<h4>SALES POSITIONS 销售部门职位：</h4>
 
 1. Product Managers 产品经理
 2. Channel Account Managers 渠道客户经理
