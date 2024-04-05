@@ -22,31 +22,19 @@ Don't miss the chance to explore exciting opportunities at MEC Networks Corporat
 
 BACK-OFFICE POSITIONS 后勤部门职位：
 
-1.Pricing Officer 定价官
-
-2.Receptionist 接待员
-
-3.HR Manager 人力资源经理
-
-4.HR Generalist 人力资源通才
-
-5.Training and Development Officer 培训和发展官员
-
-6.Employee Relations Assistant 员工关系助理
-
-7.Accounting Manager 会计经理
-
-8.Marketing Assistant 营销助理
-
-9.Multimedia Specialist 多媒体专家
-
-10.Social Media Content Editor 社交媒体内容编辑器
-
-11.Inventory Staff 库存人员
-
-12.Dispatch Assistant 调度助理
-
-13.Logistics Officer 后勤官员
+1. Pricing Officer 定价官
+2. Receptionist 接待员
+3. HR Manager 人力资源经理
+4. HR Generalist 人力资源通才
+5. Training and Development Officer 培训和发展官员
+6. Employee Relations Assistant 员工关系助理
+7. Accounting Manager 会计经理
+8. Marketing Assistant 营销助理
+9. Multimedia Specialist 多媒体专家
+10. Social Media Content Editor 社交媒体内容编辑器
+11. Inventory Staff 库存人员
+12. Dispatch Assistant 调度助理
+13. Logistics Officer 后勤官员
 
 SALES POSITIONS 销售部门职位：
 
