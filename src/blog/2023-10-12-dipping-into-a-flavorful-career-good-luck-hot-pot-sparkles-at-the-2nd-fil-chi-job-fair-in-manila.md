@@ -11,20 +11,21 @@ imageAlt: Good Luck Hot Pot
 <p align="justify" style="font-size: 20px"> Good Luck Hot Pot has been warmly received by both Chinese and Filipinos, particularly among the elites. It has earned the reputation as the pinnacle of Oriental Dining by providing exceptional dining experiences, captivating Chinese cultural performances, and catering to various parties and business banquets. Good Luck Hot Pot has now expanded into the Philippines, dedicated to creating more job opportunities for Filipinos. We offer professional F&B management expertise, introduce authentic Chinese culture and performances, and foster friendship between the two nations. <br><br> The store is meticulously designed with classic Chinese architecture, offering customers a grand, solemn, yet vibrant dining ambiance. The establishment spans two floors, each equipped with VIP rooms and common dining areas. In total, there are 10 VIP rooms, including 1 President’s Room, 2 Queen’s Rooms, and 7 VIP Rooms. </p>
 
 <p align="justify" style="font-size: 20px">Recruitment Openings:</p>
-<ol>
-<li><p align="justify" style="font-size: 20px">Director of Finance 财务总监</p></li>
-<li><p align="justify" style="font-size: 20px">Director of Operations 运营总监</p></li>
-<li><p align="justify" style="font-size: 20px">Store Manager 门店店长</p></li>
-<li><p align="justify" style="font-size: 20px">Reserve Store Manager 储备店长</p></li>
-<li><p align="justify" style="font-size: 20px">Executive Chef 行政总厨</p></li>
-<li><p align="justify" style="font-size: 20px">Director of Human Resources 人力资源总监</p></li>
-<li><p align="justify" style="font-size: 20px">Brand Marketing Manager 品牌营销经理</p></li>
-<li><p align="justify" style="font-size: 20px">Member Center Manager 会员中心经理</p></li>
-<li><p align="justify" style="font-size: 20px">Delivery Center Manager 外卖中心经理</p></li>
-<li><p align="justify" style="font-size: 20px">Graphic Designer 平面设计师</p></li>
-<li><p align="justify" style="font-size: 20px">Front Desk Reception (VIP Room Attendant) 前台接待(VIP包间服务员)</p></li>
-<li><p align="justify" style="font-size: 20px">Dancer / Folk Musician 舞蹈演员/民乐演员</p></li>
+<ol style="list-style-type: decimal; font-size: 20px;">
+  <li><p align="justify">Director of Finance 财务总监</p></li>
+  <li><p align="justify">Director of Operations 运营总监</p></li>
+  <li><p align="justify">Store Manager 门店店长</p></li>
+  <li><p align="justify">Reserve Store Manager 储备店长</p></li>
+  <li><p align="justify">Executive Chef 行政总厨</p></li>
+  <li><p align="justify">Director of Human Resources 人力资源总监</p></li>
+  <li><p align="justify">Brand Marketing Manager 品牌营销经理</p></li>
+  <li><p align="justify">Member Center Manager 会员中心经理</p></li>
+  <li><p align="justify">Delivery Center Manager 外卖中心经理</p></li>
+  <li><p align="justify">Graphic Designer 平面设计师</p></li>
+  <li><p align="justify">Front Desk Reception (VIP Room Attendant) 前台接待(VIP包间服务员)</p></li>
+  <li><p align="justify">Dancer / Folk Musician 舞蹈演员/民乐演员</p></li>
 </ol>
+
 
 <p align="justify" style="font-size: 20px">HR Email Address: flintzhuang@gmail.com</p>
 
