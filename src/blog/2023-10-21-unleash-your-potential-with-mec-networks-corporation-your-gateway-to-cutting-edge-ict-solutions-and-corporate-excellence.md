@@ -14,9 +14,9 @@ imageAlt: MEC Networks Corporation
 
 <h3>BACK-OFFICE POSITIONS 后勤部门职位：</h3>
 <ol>
-<li>Pricing Officer 定价官</li>
-<li>Receptionist 接待员</li>
-<li>HR Manager 人力资源经理</li>
+<li class = "article">Pricing Officer 定价官</li>
+<li class = "article">Receptionist 接待员</li>
+<li class = "article">HR Manager 人力资源经理</li>
 4. HR Generalist 人力资源通才
 5. Training and Development Officer 培训和发展官员
 6. Employee Relations Assistant 员工关系助理
