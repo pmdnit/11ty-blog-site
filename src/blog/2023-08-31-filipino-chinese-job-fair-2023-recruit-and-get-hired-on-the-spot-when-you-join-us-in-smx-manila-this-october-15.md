@@ -17,13 +17,8 @@ imageAlt: ______________________________________________________________
 <h3>PRESS CONTACT: </h3>
 
 <h4>Denise Lim</h4>
-
-- Event Manager, Fil-Chi Job Fair
-
-- Philippine Dragon Media Network
-
-- +63 9064361399
-
-- filchijobfair@flw.ph
-
-- [www.filchi-jobfair.com](www.filchi-jobfair.com)
+ Event Manager, Fil-Chi Job Fair
+ Philippine Dragon Media Network
+ +63 9064361399
+ filchijobfair@flw.ph
+ [www.filchi-jobfair.com](www.filchi-jobfair.com)
