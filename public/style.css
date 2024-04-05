@@ -736,7 +736,86 @@ section,
   margin: 50px 50px 50px 50px;
   align-items: center;
 }
+
+@media (max-width: 1434px) and (min-width: 1403px){
+  .dateSizemain{
+      width: 250px;
+  }
+}
+
+
+@media (max-width: 1402px ) and (min-width: 1323px) {
+  .dateSizemain{
+      max-width: 190px;
+      margin-top: 20px;
+  }
+}
+
+@media (max-width:1322px){
+  .dateSizemain{
+      max-width: 250px;
+  }
+  .header_page_parent{
+      margin: 10px 0px 30px 0px;
+  }
+
+}
+
+@media (max-width: 1261px) and (min-width: 1212px) {
+  .dateSizemain{
+      margin: 50px 0px 0px 0px;
+      width:200px;
+  }
+}
+
+@media (max-width: 1211px) and (min-width:1162px ){
+  .margin_header{
+      margin: 30px 0px 0px 0px;
+  }
+}
+
+@media (max-width: 1161px) and (min-width: 1054px){
+
+  .dateSizemain{
+      width: 130px;
+      margin-top: 50px;
+  }
+  .margin_header{
+      margin: 50px 0px 0px 0px;
+  }
+}
+
+@media (max-width: 1053px){
+  .header_page_parent{
+      flex-wrap: wrap-reverse;
+      justify-content: center;
+      text-align: center;
+      margin: 0px 0px 0px 0px;
+  }
+  .breadcrumb{
+      justify-content: center;
+  }
   
+  .dateSizemain{
+      width: 130px;
+      margin: 10px 0px 10px 50px;
+  }
+  .margin_header{
+      margin: 0px 0px 0px 0px;
+  }
+}
+@media(max-width: 500px){
+  .breadcrumb{
+      display: flex;
+  }
+  .breadcrumb > * {
+      margin-right: 10px; /* Adjust the gap between breadcrumb items */
+  }
+  .breadcrumb > *:last-child {
+      margin-right: 0; /* Remove margin for the last breadcrumb item */
+  }
+
+}
 
 .breadcrumb  .breadcrumb-item::before {
   content: " ";
