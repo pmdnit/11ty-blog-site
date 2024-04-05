@@ -14,9 +14,9 @@ imageAlt: ______________________________________________________________
 
 
 
-<h2>PRESS CONTACT: </h2>
+<h3>PRESS CONTACT: </h3>
 
-<h3>Denise Lim</h3>
+<h4>Denise Lim</h4>
 
 - Event Manager, Fil-Chi Job Fair
 
