@@ -27,7 +27,7 @@ imageAlt: MEC Networks Corporation
 11. Inventory Staff 库存人员
 12. Dispatch Assistant 调度助理
 13. Logistics Officer 后勤官员
-
+</ol>
 SALES POSITIONS 销售部门职位：
 
 1. Product Managers 产品经理
