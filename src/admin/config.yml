@@ -16,5 +16,5 @@ collections:
       - { label: "Date", name: "date", widget: "datetime"}
       - { label: "Tags", name: "tags", widget: "list", default: ["post"] }
       - { label: "Featured Image", name: "image", widget: "image", required: false  }
-      - { label: "Image caption", name: "imageAlt", widget: "string",  required: false  }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Image caption", name: "imageAlt", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdownWithFontSize" }
