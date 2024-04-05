@@ -163,6 +163,9 @@ section,
 .article-title,
 .section-title {
   color: var(--clr-primary-500);
+  font-family: 'Poppins', sans-serif;
+  
+
 }
 
 .article-title {
@@ -230,7 +233,7 @@ section,
 .footer .btn.btn-link::before {
     position: relative;
     content: "\f105";
-    font-family: "Font Awesome 5 Free";
+    font-family: 'Poppins', sans-serif;
     font-weight: 900;
     margin-right: 10px;
 }
@@ -361,10 +364,16 @@ section,
   Individual article page
   /////////////////////// */
   .article-title {
+    font-weight: bolder;
+    letter-spacing: .125rem;
+    color: #0071FD;
     font-family: 'Poppins', sans-serif;
-    font-weight: 600; /* This corresponds to the bold weight */
-    font-size: var(--fs-600);
-    color: var(--clr-primary-500);
+    font-size: 2.5em; 
+    font-weight: 900;
+    font-weight: bold; 
+    text-align: center;
+    padding: 2% 0;
+
   }
   .main-article {
     font-family: 'Poppins', sans-serif;
@@ -704,6 +713,7 @@ section,
 .page-header {
   background-image: linear-gradient(to left, rgba(82, 89, 248, 0.3), rgba(82, 195, 248, 0.5),  rgba(220, 243, 248, 0.5)), url("https://i.imgur.com/XGP51Su.png");
   background-size:contain; max-width: 100%;
+  font-family: 'Poppins', sans-serif;
 }
 @media only screen and (min-width: 350px) {
     .page-header {
@@ -1085,7 +1095,7 @@ section,
   color: #ffffff;
   margin: 0 auto;
   text-align: center;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Poppins', sans-serif;
   
 
   
@@ -1205,7 +1215,7 @@ li span {
   padding:20px 30px;
   max-width:calc(100vw - 40px);
   box-sizing:border-box;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Poppins', sans-serif;
   position:relative
 }
 .form h2{
@@ -1223,7 +1233,7 @@ li span {
   outline:none;
   resize:none;
   border:0;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Poppins', sans-serif;
   transition:all .3s;
   border-bottom:2px solid #bebed2
 }
@@ -1244,7 +1254,7 @@ p:before{
   float:right;
   padding:8px 12px;
   margin:8px 0 0;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Poppins', sans-serif;
   border:2px solid #78788c;
   background:0;
   color:#5a5a6e;
@@ -1302,6 +1312,7 @@ p:before{
   font-size: 2.5em; 
   font-weight: 900;
   font-weight: bold; 
+  font-family: 'Poppins', sans-serif;
 }
 
 
