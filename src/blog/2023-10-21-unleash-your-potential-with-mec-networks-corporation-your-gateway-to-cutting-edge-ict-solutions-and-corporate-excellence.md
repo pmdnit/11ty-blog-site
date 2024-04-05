@@ -17,7 +17,7 @@ imageAlt: MEC Networks Corporation
 <li class = "article">Pricing Officer 定价官</li>
 <li class = "article">Receptionist 接待员</li>
 <li class = "article">HR Manager 人力资源经理</li>
-4. HR Generalist 人力资源通才
+<li class = "article">HR Generalist 人力资源通才</li
 5. Training and Development Officer 培训和发展官员
 6. Employee Relations Assistant 员工关系助理
 7. Accounting Manager 会计经理
