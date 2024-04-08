@@ -12,23 +12,24 @@ imageAlt: MEC Networks Corporation
 
 招聘岗位
 
-<h3>BACK-OFFICE POSITIONS 后勤部门职位：</h3>
-<ol>
+<h4>BACK-OFFICE POSITIONS 后勤部门职位：</h4>
+<ol type = "1">
 <li class = "article">Pricing Officer 定价官</li>
 <li class = "article">Receptionist 接待员</li>
 <li class = "article">HR Manager 人力资源经理</li>
-4. HR Generalist 人力资源通才
-5. Training and Development Officer 培训和发展官员
-6. Employee Relations Assistant 员工关系助理
-7. Accounting Manager 会计经理
-8. Marketing Assistant 营销助理
-9. Multimedia Specialist 多媒体专家
-10. Social Media Content Editor 社交媒体内容编辑器
-11. Inventory Staff 库存人员
-12. Dispatch Assistant 调度助理
-13. Logistics Officer 后勤官员
+<li class = "article">HR Generalist 人力资源通才</li>
+<li class = "article">Training and Development Officer 培训和发展官员</li>
+<li class = "article">Employee Relations Assistant 员工关系助理</li>
+<li class = "article">Accounting Manager 会计经理</li>
+<li class = "article">Marketing Assistant 营销助理</li>
+<li class = "article">Multimedia Specialist 多媒体专家</li>
+<li class = "article">Social Media Content Editor 社交媒体内容编辑器</li>
+<li class = "article">Inventory Staff 库存人员</li>
+<li class = "article">Dispatch Assistant 调度助理</li>
+<li class = "article">Logistics Officer 后勤官员</li>
 </ol>
-SALES POSITIONS 销售部门职位：
+
+<h4>SALES POSITIONS 销售部门职位：</h4>
 
 1. Product Managers 产品经理
 2. Channel Account Managers 渠道客户经理

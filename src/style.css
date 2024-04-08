@@ -1101,7 +1101,11 @@ li span {
 }
 
 li.article{
-  font-size: 10px;
+  font-size: 18px;
+}
+
+li.article span{
+  display: block;
 }
 
 .emoji {
