@@ -9,8 +9,8 @@ imageAlt: Manulife Financial Corporation
 <p style = "font-size: 20px" align = "justify">Manulife Financial Corporation is a leading international financial services provider, helping people make their decisions easier and lives better. With our global headquarters in Toronto, Canada, we provide financial advice and insurance, operating as Manulife across Canada, Asia, and Europe, and primarily as John Hancock in the United States. <br><br>Through Manulife Investment Management, the global brand for our Global Wealth and Asset Management segment, we serve individuals, institutions, and retirement plan members worldwide.<br><br>At the end of 2022, we had more than 40,000 employees, over 116,000 agents, and thousands of distribution partners, serving over 34 million customers. We trade as 'MFC' on the Toronto, New York, and the Philippine stock exchanges and under '945' in Hong Kong.<br><br>Not all offerings are available in all jurisdictions. For additional information, please visit www.manulife.com.ph
 <br><br>
 
-<h4>Recruitment 招聘岗位：</h4>
-1.Financial Advisor 理财顾问
+<h4 style = "font-weight: 900">Recruitment 招聘岗位：</h4>
+<p style = "font-size: 20px">1.Financial Advisor 理财顾问</p>
 <br><br>
 
 
