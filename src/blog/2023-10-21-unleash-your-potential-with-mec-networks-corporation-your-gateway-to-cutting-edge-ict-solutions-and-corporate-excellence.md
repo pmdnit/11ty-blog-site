@@ -46,8 +46,4 @@ imageAlt: MEC Networks Corporation
 <br>
 <h4>Email: careers@mec.ph</h4>
 
-<p align="justify">2nd Filipino-Chinese Job Fair in Manila 2023 (菲龙网第二届菲律宾华人线下招聘会) was held last October 15, 2023, if you weren't able to visit your dream company's booth or attend the event, no worries as they are still waiting for your resume through their contact details!</p>
-
-For more details on the job fair, visit https://www.filchi-jobfair.com/
-
-\#filchijobfair #filchijobfair2023 #jobsph #RecruitmentPH #JobFairPH #Philippines2023 #hiring #HRPhilippines #菲律宾
+<p style = "font-size: 20px" align="justify">2nd Filipino-Chinese Job Fair in Manila 2023 (菲龙网第二届菲律宾华人线下招聘会) was held last October 15, 2023, if you weren't able to visit your dream company's booth or attend the event, no worries as they are still waiting for your resume through their contact details!<br><br>For more details on the job fair, visit https://www.filchi-jobfair.com/<br><br>#filchijobfair #filchijobfair2023 #jobsph #RecruitmentPH #JobFairPH #Philippines2023 #hiring #HRPhilippines #菲律宾</p>
