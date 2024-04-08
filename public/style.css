@@ -202,6 +202,12 @@ section,
   Footer
   /////////////////////// */
 
+.botlogo img {
+    height: 50%;
+    width: 406px; 
+    margin-left: 74px;
+}
+
   .footer .btn.btn-social {
     margin-right: 5px;
     width: 35px;
@@ -233,7 +239,7 @@ section,
 .footer .btn.btn-link::before {
     position: relative;
     content: "\f105";
-    font-family: 'Poppins', sans-serif;
+    font-family: "Font Awesome 5 Free";
     font-weight: 900;
     margin-right: 10px;
 }
@@ -310,21 +316,6 @@ section,
     width: 100%;
 }
 
-.botlogo img {
-  height: 50%;
-  width: 406px; 
-  margin-left: 74px;
-}
-
-@media only screen and (max-width: 600px) {
-  .botlogo img {
-      height: 30%;
-      max-width: 70%;
-      margin: 0 auto; 
-      display: block; 
-      margin-bottom: 10%;
-  }
-}
 /* //////////////////////
   Homepage
   /////////////////////// */
@@ -1017,79 +1008,6 @@ section,
   position:absolute;
   }
 
-  
-
-/*** Footer ***/
-
-.footer .btn.btn-social {
-  margin-right: 5px;
-  width: 35px;
-  height: 35px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  color: var(--light);
-  border: 1px solid rgba(255,255,255,0.5);
-  border-radius: 2px;
-  transition: .3s;
-}
-
-.footer .btn.btn-social:hover {
-  color: var(--primary);
-  border-color: var(--light);
-}
-
-.footer .btn.btn-link {
-  display: block;
-  margin-bottom: 5px;
-  padding: 0;
-  text-align: left;
-  font-size: 15px;
-  font-weight: normal;
-  text-transform: capitalize;
-  transition: .3s;
-}
-
-.footer .btn.btn-link::before {
-  position: relative;
-  content: "\f105";
-  font-family: "Font Awesome 5 Free";
-  font-weight: 900;
-  margin-right: 10px;
-}
-
-.footer .btn.btn-link:hover {
-  letter-spacing: 1px;
-  box-shadow: none;
-}
-
-.footer .form-control {
-  border-color: rgba(255,255,255,0.5);
-}
-
-.footer .copyright {
-  padding: 25px 0;
-  font-size: 15px;
-  border-top: 1px solid rgba(256, 256, 256, .1);
-}
-
-.footer .copyright a {
-  color: var(--light);
-}
-
-.footer .footer-menu a {
-  margin-right: 15px;
-  padding-right: 15px;
-  border-right: 1px solid rgba(255, 255, 255, .1);
-}
-
-.footer .footer-menu a:last-child {
-  margin-right: 0;
-  padding-right: 0;
-  border-right: none;
-}
-
-
 .timer_container {
   background-color: rgb(139, 172, 199);
   color: #ffffff;
@@ -1301,9 +1219,6 @@ p:before{
   margin: 10px;
   margin-right: 10px;
 }
-
-
-
 
 .image-container1 {
   width: auto;
