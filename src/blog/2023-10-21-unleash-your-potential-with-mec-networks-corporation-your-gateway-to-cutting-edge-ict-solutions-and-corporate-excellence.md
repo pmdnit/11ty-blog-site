@@ -27,26 +27,24 @@ imageAlt: MEC Networks Corporation
 <br><br>
 
 <h4>SALES POSITIONS 销售部门职位：</h4>
-
 1.Product Managers 产品经理<br>
 2.Channel Account Managers 渠道客户经理<br>
 3.Inside Sales Officers 内部销售人员<br>
 4.Business Development Officers 业务发展官员<br>
+<br><br>
+TECHNICAL POSITIONS 技术部门职位
+1.Systems Specialist 系统专家<br>
+2.NOC Engineer NOC工程师<br>
+3.Web Developer 网页开发人员<br>
+4.Project Management Officer 项目管理官员<br>
+5.Product Return and Replacement Officer (RMA) 产品退货和更换官员（RMA）<br>
+6.Tech Customer Care 技术客户服务<br>
+7.Solutions Engineer 解决方案工程师<br>
+8.IT Support 信息技术支持<br>
+9.Design Engineer 设计工程师<br>
+10.Systems Engineer 系统工程师<br>
 
-TECHNICAL POSITIONS 技术部门职位：
-
-1. Systems Specialist 系统专家
-2. NOC Engineer NOC工程师
-3. Web Developer 网页开发人员
-4. Project Management Officer 项目管理官员
-5. Product Return and Replacement Officer (RMA) 产品退货和更换官员（RMA）
-6. Tech Customer Care 技术客户服务
-7. Solutions Engineer 解决方案工程师
-8. IT Support 信息技术支持
-9. Design Engineer 设计工程师
-10. Systems Engineer 系统工程师
-
-Email: careers@mec.ph
+<h4>Email: careers@mec.ph</h4>
 
 2nd Filipino-Chinese Job Fair in Manila 2023 (菲龙网第二届菲律宾华人线下招聘会) was held last October 15, 2023, if you weren't able to visit your dream company's booth or attend the event, no worries as they are still waiting for your resume through their contact details!
 
