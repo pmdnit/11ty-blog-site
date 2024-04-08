@@ -10,19 +10,16 @@ imageAlt: MEC Networks Corporation
 ---
 <p align = "justify" style = "font-size: 20px"> Join MEC Networks Corporation to explore the world of ICT solutions with a touch of corporate excellence. With a rich history dating back to 1995, MEC are proud to be a leading ICT Distributor, representing an extensive portfolio of 30+ globally recognized brands to cater to all your end-to-end technology needs. MEC's team of dedicated experts ensures seamless access to the latest and most innovative products on the market.<br><br>Operating from strategic branches in Cubao, Quezon City, and Cebu, our nationwide presence enables us to provide localized support, empowering organizations and individuals from various sectors. As a testament to our commitment to building strong partnerships, we have garnered more than 800 active partners (resellers) nationwide.<br><br>Our mission is to empower organizations and individuals to achieve great things in life through the best technology available. At MEC Networks Corporation, we value partnerships and consider you a part of our esteemed corporate family. Your success is our priority, and we are committed to supporting you in achieving your goals. Our corporate culture encourages collaboration, creativity, and innovation, fostering an environment where growth and learning thrive.<br><br>Don't miss the chance to explore exciting opportunities at MEC Networks Corporation. Visit our booth at the Fil-Chi Job Fair and embark on a journey of progress and accomplishment with us. We look forward to meeting you and discussing how, together, we can shape a prosperous future. </p>
 
-招聘岗位
-
 <h4>BACK-OFFICE POSITIONS 后勤部门职位：</h4>
-<ol type = "1">
-<li class = "article">Pricing Officer 定价官</li>
-<li class = "article">Receptionist 接待员</li>
-<li class = "article">HR Manager 人力资源经理</li>
-<li class = "article">HR Generalist 人力资源通才</li>
-<li class = "article">Training and Development Officer 培训和发展官员</li>
-<li class = "article">Employee Relations Assistant 员工关系助理</li>
-<li class = "article">Accounting Manager 会计经理</li>
-<li class = "article">Marketing Assistant 营销助理</li>
-<li class = "article">Multimedia Specialist 多媒体专家</li>
+Pricing Officer 定价官<br>
+Receptionist 接待员 <br>
+HR Manager 人力资源经理<br>
+HR Generalist 人力资源通才<br>
+Training and Development Officer 培训和发展官员<br>
+Employee Relations Assistant 员工关系助理<br>
+Accounting Manager 会计经理<br>
+Marketing Assistant 营销助理<br>
+<li class = "article">Multimedia Specialist 多媒体专家<br>
 <li class = "article">Social Media Content Editor 社交媒体内容编辑器</li>
 <li class = "article">Inventory Staff 库存人员</li>
 <li class = "article">Dispatch Assistant 调度助理</li>
