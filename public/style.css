@@ -1463,3 +1463,112 @@ p:before{
       width: calc(33.33% - 10px); 
   }
 }
+
+.regButton {
+  position: fixed;
+  right: 20px;
+  bottom: 175px;
+  z-index: 99;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  line-height: 30px;
+  align-items: center;
+  width: 100px;
+  height: 100px;
+  padding: 10px 20px 10px 20px;
+  border-radius: 50%;
+  border: 3px solid transparent; 
+  color: rgba(255, 17,144, 1);
+  background: 
+      linear-gradient(#e3f4ff 0 0) padding-box, 
+      linear-gradient(to bottom, #e949f1, #4197ef) border-box;
+  font-weight: bolder;
+  text-transform: uppercase;
+  transition: color 0.25s, background 0.25s;
+  animation: pulse 1.5s infinite;
+  box-shadow: 0 0 0 13px rgba(65, 151, 239, 1);
+}
+
+.closeRegButton {
+  position: fixed;
+  right: 25px;
+  bottom: 250px;
+  z-index: 99;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 20px;
+  height: 20px;
+  padding: 10px;
+  border-radius: 50%;
+  border: 1px solid #e949f1;
+  color: red;
+  background-color: white;
+}
+
+@keyframes pulse {
+  0% {
+      transform: scale(1);
+      box-shadow: 0 0 20px 2px rgba(233, 73, 241, 1);
+  }
+  50% {
+      transform: scale(1.1);
+      box-shadow: 0 0 20px 2px #4197ef, 
+                  0 0 20px 2px rgba(233, 73, 241, 1);
+  }
+  100% {
+      transform: scale(1);
+      box-shadow: 0 0 20px 2px rgba(233, 73, 241, 0.1);
+  }
+}
+
+
+.closeRegButton:hover {
+  color: black;
+}
+
+.regButton:hover{
+  color: white;
+  background: 
+      linear-gradient(to bottom, #e949f1, #4197ef) border-box;
+}
+
+.regButton:active{
+  background: 
+      linear-gradient(to bottom, #e96df0, #6aacee) padding-box,
+      linear-gradient(to bottom, #e949f1, #4197ef) border-box;
+}
+
+
+.back-to-top {
+  position: fixed;
+  display: none;
+  right: 45px;
+  bottom: 50px;
+  z-index: 99;
+}
+
+@media (min-width: 900px) {   
+  .regButton{
+      position: fixed;
+      right: 45px;
+      bottom: 125px;
+      z-index: 99;
+
+      width: 200px;
+      height: 200px;
+      font-size: 25px;
+  }
+
+  .closeRegButton{
+      position: fixed;
+      right: 45px;
+      bottom: 270px;
+      z-index: 99;
+
+      width: 40px;
+      height: 40px;
+      font-size: 20px;
+  }
+}
